@@ -1,0 +1,54 @@
+body {
+    
+}
+.watch{
+border:3px solid grey;
+    padding:20px;
+    border-radius:5px;
+    font-size:20px;
+    font-weight:700;
+}
+.main{
+margin-top:3rem;
+    display:flex;
+    flex-direction:column;
+    justify-content:center ;
+    align-items:center ;
+    
+}
+.btn__div{
+    display:flex;
+    gap:10px;
+}
+
+.btn{
+    width:100px;
+    padding:10px;
+    border-radius:5px;
+    border:0;
+    box-shadow:0 2px 2px grey;
+    background-color:coral;
+}
+.pause{
+    
+    width:100px;
+    padding:10px;
+    border-radius:5px;
+    border:0;
+    box-shadow:0 2px 2px grey;
+    background-color:coral;
+
+}
+.stop{
+width:20px;
+height:20px;
+border-radius:5px;
+border:0;
+background-color:red;
+    position:absolute ;
+    left:10%;
+    top:5%;
+}
+
+
+￼Enter
